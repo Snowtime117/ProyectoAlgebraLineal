@@ -1,3 +1,4 @@
+package src.java;
 import java.util.Random;
 
 public class Matriz {

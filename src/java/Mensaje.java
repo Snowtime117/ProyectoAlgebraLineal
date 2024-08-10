@@ -1,3 +1,5 @@
+package src.java;
+
 public class Mensaje {
 
     //esto es para convertir el mensaje en el módulo 27
